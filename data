@@ -1,53 +1,19 @@
 [
   {
-    "id" : 3,
+    "id" : 1,
     "title" : "가",
     "content" : "onsdsyydly 5 inches",
     "price" : 1200200
   },
   {
-    "id" : 4,
+    "id" : 2,
     "title" : "나",
     "content" : "for ldess than 6",
     "price" : 1200020
   },
   {
-    "id" : 5,
+    "id" : 3,
     "title" : "다",
-    "content" : "Born din France",
-    "price" : 12003003
-  },
-  {
-    "id" : 5,
-    "title" : "라",
-    "content" : "Born din France",
-    "price" : 12003003
-  },
-  {
-    "id" : 5,
-    "title" : "마",
-    "content" : "Born din France",
-    "price" : 12003003
-  },
-  {
-    "id" : 5,
-    "title" : "바",
-    "content" : "Born din France",
-    "price" : 12003003
-  },
-  {
-    "id" : 5,
-    "title" : "사",
-    "content" : "Born din France",
-    "price" : 12003003
-  },{
-    "id" : 5,
-    "title" : "아",
-    "content" : "Born din France",
-    "price" : 12003003
-  },{
-    "id" : 5,
-    "title" : "자",
     "content" : "Born din France",
     "price" : 12003003
   }
